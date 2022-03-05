@@ -1,2 +1,2 @@
 # jb-academy-frontend
-JetBrains Academy Frontend Developer Track Projects
+Hyperskill Frontend Developer Track Projects
