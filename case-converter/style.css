@@ -1,0 +1,29 @@
+.title {
+    font-size: 2em;
+}
+
+textarea {
+    width: 98vw;
+    min-height: 25vh;
+}
+
+.textarea-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.btn-container button {
+    margin: 3px;
+    padding: 7px;
+    font-size: 15px;
+    background-color: brown;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+}
